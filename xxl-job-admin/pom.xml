@@ -70,6 +70,12 @@
 			<version>${mysql-connector-j.version}</version>
 		</dependency>
 
+
+		<dependency>
+			<groupId>com.yashandb</groupId>
+			<artifactId>yashandb-jdbc</artifactId>
+			<version>${yashandb-connect-j.version}</version>
+		</dependency>
 		<!-- xxl-job-core -->
 		<dependency>
 			<groupId>com.xuxueli</groupId>
